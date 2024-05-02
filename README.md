@@ -1,4 +1,5 @@
-Burger Bash
+Burger_Bash_SQL_Case_Study
+
 Overview:
 
 I have a started a new business of selling burger because I read on my Instagram feed that „Burger Is the Future!
